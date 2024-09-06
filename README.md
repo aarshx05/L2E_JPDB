@@ -15,7 +15,7 @@ This project is a **Shipment Management Form** powered by **JsonPowerDB (JPDB)**
 
 Here’s a glimpse of how the shipment form looks:
 
-![Form Preview](https://via.placeholder.com/600x300?text=Form+Preview)  
+![Form Preview](https://github.com/aarshx05/L2E_JPDB/blob/main/ss1-l2e.jpg)  
 *Visual representation of the shipment management form*
 
 ---
