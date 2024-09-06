@@ -1,6 +1,6 @@
 # 📦 Shipment Management Form
 
-![Shipment Management](https://via.placeholder.com/800x400?text=Shipment+Management+App)  
+![Shipment Management](https://github.com/aarshx05/L2E_JPDB/blob/main/ss1-l2e.jpg)  
 *A simple and efficient way to manage shipments*
 
 ---
