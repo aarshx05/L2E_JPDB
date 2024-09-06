@@ -22,7 +22,7 @@ Here’s a glimpse of how the shipment form looks:
 
 ## 🚀 Benefits of Using JsonPowerDB
 
-![JsonPowerDB Logo](https://via.placeholder.com/150x50?text=JsonPowerDB+Logo)
+![JsonPowerDB Logo](https://github.com/aarshx05/L2E_JPDB/blob/main/jspdb-l2e.jpg)
 
 JsonPowerDB is an innovative NoSQL database designed to provide fast, secure, and scalable solutions for modern applications. Here's why JPDB is a great fit for this project:
 
